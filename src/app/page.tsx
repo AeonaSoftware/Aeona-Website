@@ -23,6 +23,7 @@ export default function Home() {
         </h2>
       </div>
 
+      {/* section 2 */}
       <div className="relative bg-black w-full h-[400px] rounded-[35px] flex items-center pl-20 mt-20">
         <div className="z-30">
           <div className="flex items-center">
